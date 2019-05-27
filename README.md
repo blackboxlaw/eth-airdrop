@@ -1,2 +1,2 @@
-#tx-mech-airdrop.eth
+# tx-mech-airdrop.eth
 transaction mechanics
